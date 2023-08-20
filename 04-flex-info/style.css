@@ -25,3 +25,18 @@ body {
     background: #eee;
   }
   
+  /* SOLUTION */
+  
+  body {
+    text-align: center;
+  }
+  
+  .title {
+    margin-bottom: 32px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
